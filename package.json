@@ -6,11 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "script": {
-    "npmInstall": "npm install",
-    "start": "node src/index.js"
-
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kennedykas/sales-control-api.git"
