@@ -1,1 +1,2 @@
-web: node /src/index.js
+npm: npm install
+web: node index.js
